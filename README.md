@@ -7,12 +7,12 @@ Each entry in the dataset represents a unique dog license that was active during
 This dataset is valuable for municipal governments, veterinarians, and researchers interested in pet ownership trends, compliance with local licensing regulations, and demographic studies of pet ownership. Additionally, it can assist in public health monitoring, such as tracking rabies vaccinations, which are often required for licensing.
 
 
-#Types of Analytics#
+**Types of Analytics**
 Descriptive Statistics
 Objective: Understand the basic characteristics of the dog population.
 Examples:
 
-#Distribution of dog breeds.#
+Distribution of dog breeds.
 Average age of dogs.
 Licensing compliance rates across different zip codes.
 Geospatial Analysis
@@ -33,7 +33,7 @@ Predictive Modeling
 Objective: Predict future behavior and identify influencing factors.
 Examples:
 
-Modeling the likelihood of license renewal.
+**Modeling the likelihood of license renewal.**
 Identifying factors influencing license renewal using logistic regression or other predictive models.
 Cluster Analysis
 Objective: Group similar zip codes based on dog population characteristics.
